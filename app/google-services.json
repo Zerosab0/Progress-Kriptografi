@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41613663382",
+    "project_id": "kriptotugas1",
+    "storage_bucket": "kriptotugas1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41613663382:android:51be7e38fdb8cd9b1e36b7",
+        "android_client_info": {
+          "package_name": "com.example.kriptotugas1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUs3UjF73nnG3UAu-9d70fiGhej3UR36I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
